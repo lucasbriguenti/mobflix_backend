@@ -10069,25 +10069,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/lucasbriguenti/.nuget/packages/": {}
+    "C:\\Users\\lucas.briguenti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucasbriguenti/Projects/alura/Dotnet/Mobflix_backend/Mobflix_backend/Mobflix_backend.csproj",
+      "projectUniqueName": "C:\\Projetos\\Alura\\mobflix_backend\\Mobflix_backend.csproj",
       "projectName": "Mobflix_backend",
-      "projectPath": "/Users/lucasbriguenti/Projects/alura/Dotnet/Mobflix_backend/Mobflix_backend/Mobflix_backend.csproj",
-      "packagesPath": "/Users/lucasbriguenti/.nuget/packages/",
-      "outputPath": "/Users/lucasbriguenti/Projects/alura/Dotnet/Mobflix_backend/Mobflix_backend/obj/",
+      "projectPath": "C:\\Projetos\\Alura\\mobflix_backend\\Mobflix_backend.csproj",
+      "packagesPath": "C:\\Users\\lucas.briguenti\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\Alura\\mobflix_backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lucasbriguenti/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lucas.briguenti\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gesigsenac.pkgs.visualstudio.com/_packaging/SigPackage/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -10157,7 +10159,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
